@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "vectorcraft": {
+      "type": "stdio",
+      "command": "C:\\PATH\\TO\\vectorcraft-cli.exe",
+      "args": [
+        "mcp",
+        "--automation-read-root",
+        "D:\\PrintCut",
+        "--automation-write-root",
+        "D:\\PrintCut"
+      ]
+    }
+  }
+}
